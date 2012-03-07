@@ -1,0 +1,15 @@
+﻿<Window x:Class="ChatServerApp.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="350" Width="406" Name="ChatServet" Closing="ChatServet_Closing">
+    <Window.Background>
+        <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+            <GradientStop Color="#FF75C742" Offset="0" />
+            <GradientStop Color="#FFCB4E4E" Offset="1" />
+        </LinearGradientBrush>
+    </Window.Background>
+    <Grid>
+        <Button Content="Pokreni Server" Height="35" HorizontalAlignment="Left" Margin="85,6,0,0" Name="btnListen" VerticalAlignment="Top" Width="209" Click="btnListen_Click" />
+        <ListBox Height="255" HorizontalAlignment="Left" Margin="12,44,0,0" Name="txtLog" VerticalAlignment="Top" Width="360" Background="#FFF2FFFF" />
+    </Grid>
+</Window>

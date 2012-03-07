@@ -1,0 +1,19 @@
+﻿<Window x:Class="ChatApplication.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="374" Width="338" Closing="Window_Closing">
+    <Grid>
+        <Label Content="Nadimak" Height="28" HorizontalAlignment="Left" Name="label2" VerticalAlignment="Top" Width="111" />
+        <TextBox Height="23" HorizontalAlignment="Left" Margin="0,21,0,0" Name="usrName" VerticalAlignment="Top" Width="187" />
+        <Button Content="Spoji" Height="47" HorizontalAlignment="Left" Margin="66,50,0,0" Name="connectButton" VerticalAlignment="Top" Width="171" Click="connectButton_Click" />
+        <ListBox Height="192" HorizontalAlignment="Left" Margin="12,103,0,0" Name="listBoxMessage" VerticalAlignment="Top" Width="292" Background="#FFF2FFFE" />
+        <TextBox Height="23" HorizontalAlignment="Left" Margin="12,301,0,0" Name="message" VerticalAlignment="Top" Width="225" KeyDown="message_KeyDown" />
+        <Button Content="Posalji" Height="23" HorizontalAlignment="Left" Margin="244,0,0,11" Name="sendButton" VerticalAlignment="Bottom" Width="60" Click="sendButton_Click" />
+    </Grid>
+    <Window.Background>
+        <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+            <GradientStop Color="#FF83ACBE" Offset="0" />
+            <GradientStop Color="#FFE2BCBC" Offset="1" />
+        </LinearGradientBrush>
+    </Window.Background>
+</Window>

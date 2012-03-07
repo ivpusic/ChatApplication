@@ -1,0 +1,26 @@
+C:\Users\Ivan\Desktop\bazeSeminar\ChatApplication\ChatServerApp\bin\Debug\ChatServerApp.exe
+C:\Users\Ivan\Desktop\bazeSeminar\ChatApplication\ChatServerApp\bin\Debug\ChatServerApp.pdb
+C:\Users\Ivan\Desktop\bazeSeminar\ChatApplication\ChatServerApp\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Ivan\Desktop\bazeSeminar\ChatApplication\ChatServerApp\obj\x86\Debug\MainWindow.baml
+C:\Users\Ivan\Desktop\bazeSeminar\ChatApplication\ChatServerApp\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Ivan\Desktop\bazeSeminar\ChatApplication\ChatServerApp\obj\x86\Debug\App.g.cs
+C:\Users\Ivan\Desktop\bazeSeminar\ChatApplication\ChatServerApp\obj\x86\Debug\ChatServerApp_MarkupCompile.cache
+C:\Users\Ivan\Desktop\bazeSeminar\ChatApplication\ChatServerApp\obj\x86\Debug\ChatServerApp.g.resources
+C:\Users\Ivan\Desktop\bazeSeminar\ChatApplication\ChatServerApp\obj\x86\Debug\ChatServerApp.Properties.Resources.resources
+C:\Users\Ivan\Desktop\bazeSeminar\ChatApplication\ChatServerApp\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Ivan\Desktop\bazeSeminar\ChatApplication\ChatServerApp\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Ivan\Desktop\bazeSeminar\ChatApplication\ChatServerApp\obj\x86\Debug\ChatServerApp.exe
+C:\Users\Ivan\Desktop\bazeSeminar\ChatApplication\ChatServerApp\obj\x86\Debug\ChatServerApp.pdb
+C:\Users\Ivan\Desktop\Mreze seminar\ChatApplication\ChatServerApp\obj\x86\Debug\ChatServerApp.exe
+C:\Users\Ivan\Desktop\Mreze seminar\ChatApplication\ChatServerApp\obj\x86\Debug\ChatServerApp.pdb
+C:\Users\Ivan\Desktop\Mreze seminar\ChatApplication\ChatServerApp\bin\Debug\ChatServerApp.exe
+C:\Users\Ivan\Desktop\Mreze seminar\ChatApplication\ChatServerApp\bin\Debug\ChatServerApp.pdb
+C:\Users\Ivan\Desktop\Mreze seminar\ChatApplication\ChatServerApp\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Ivan\Desktop\Mreze seminar\ChatApplication\ChatServerApp\obj\x86\Debug\MainWindow.baml
+C:\Users\Ivan\Desktop\Mreze seminar\ChatApplication\ChatServerApp\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Ivan\Desktop\Mreze seminar\ChatApplication\ChatServerApp\obj\x86\Debug\App.g.cs
+C:\Users\Ivan\Desktop\Mreze seminar\ChatApplication\ChatServerApp\obj\x86\Debug\ChatServerApp_MarkupCompile.cache
+C:\Users\Ivan\Desktop\Mreze seminar\ChatApplication\ChatServerApp\obj\x86\Debug\ChatServerApp.g.resources
+C:\Users\Ivan\Desktop\Mreze seminar\ChatApplication\ChatServerApp\obj\x86\Debug\ChatServerApp.Properties.Resources.resources
+C:\Users\Ivan\Desktop\Mreze seminar\ChatApplication\ChatServerApp\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Ivan\Desktop\Mreze seminar\ChatApplication\ChatServerApp\obj\x86\Debug\GenerateResource.write.1.tlog
